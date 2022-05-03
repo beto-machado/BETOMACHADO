@@ -1,26 +1,16 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Beto!;I'm+a+Ruby+on+Rails+Developer....!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=7AF79A&size=40&width=1000&duration=3000&lines=Hey+Devs!+I'm+Beto!;I'm+a+Ruby+on+Rails+Developer!)](https://git.io/typing-svg)
 
 
-- 🔭 Atualmente estou trabalhando em ...
+- 🔭 I'm currently working on a Ruby on Rails project
 - 🌱 Atualmente estou aprendendo ...
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
 
-
-### Connect with me on
-<br>
+### 📔 Contacts
 <div>
   <a target="_blank" href="https://www.linkedin.com/in/betomachado3/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
   <a target="_blank" href="mailto:luisrobertobeto3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
-  <a target="_blank" href="https://web.telegram.org/z/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
-  <a target="_blank" href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+  <a target="_blank" href="https://t.me/BetoMachado"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
 </div>
-
 
 ## 🛠️ My Skills
 
@@ -52,7 +42,6 @@
   <a href="https://github.com/beto-machado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beto-machado&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beto-machado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beto-machado&theme=dracula"/>
 </div>
-  
-
 
