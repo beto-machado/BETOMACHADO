@@ -34,9 +34,10 @@
   <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>&nbsp&nbsp
   <a href="https://www.figma.com/"><img alt="TFigma" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>&nbsp&nbsp
   <a href="https://www.atlassian.com/br/software/jira"><img alt="Jira" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"></a>
+  <br>
 
 ## 📊 My Activities
-  
+  <br>
 <div align="center">
   <a href="https://github.com/beto-machado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beto-machado&layout=compact&langs_count=7&theme=dracula"/>
