@@ -40,8 +40,6 @@
   <br>
 <div align="center">
   <a href="https://github.com/beto-machado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beto-machado&layout=compact&langs_count=1&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beto-machado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beto-machado&theme=dracula"/>
 </div>
 
