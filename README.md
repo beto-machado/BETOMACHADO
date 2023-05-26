@@ -40,8 +40,6 @@
   <br>
 <div align="center">
   <a href="https://github.com/beto-machado">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beto-machado&theme=zenburn"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beto-machado&theme=zenburn"/>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beto-machado&theme=zenburn"/>
 </div>
 
