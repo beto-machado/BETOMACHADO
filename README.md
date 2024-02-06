@@ -18,7 +18,6 @@
   <a href="https://rubyonrails.org/" target="_blank"><img alt="Rails" heigth="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg"></a>&nbsp&nbsp   
   <a href="#" target="_blank"><img alt="CSS3" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"></a>&nbsp&nbsp
   <a href="#" target="_blank"><img alt="HTML5" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></a>&nbsp&nbsp 
-  <a href="https://ionicframework.com/" target="_blank"><img alt="Ionic" heigth="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg"></a>&nbsp&nbsp 
   <a href="#" target="_blank"><img alt="C#" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>&nbsp&nbsp 
   <a href="https://www.mysql.com/"><img alt="MySQL" heigth="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></a>&nbsp&nbsp
   <a href="https://www.postgresql.org/"><img alt="PostgreSQL" heigth="40" width="50" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"></a>&nbsp&nbsp
@@ -30,7 +29,8 @@
   <a href="https://about.gitlab.com/"><img alt="GitLab" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg"></a>&nbsp&nbsp
   <a href="https://git-scm.com/"><img alt="Git" heigth="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"></a>&nbsp&nbsp
   <a href="https://ubuntu.com/"><img alt="Ubuntu" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"></a>&nbsp&nbsp
-  <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>&nbsp&nbsp
+  <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"></a>&nbsp&nbsp
+  <a href="https://insomnia.rest/download" target="_blank"><img alt="Ionic" heigth="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg"></a>&nbsp&nbsp 
   <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>&nbsp&nbsp
   <a href="https://www.figma.com/"><img alt="TFigma" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>&nbsp&nbsp
   <a href="https://www.atlassian.com/br/software/jira"><img alt="Jira" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"></a>
