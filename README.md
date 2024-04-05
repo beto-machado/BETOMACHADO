@@ -18,13 +18,10 @@
   <a href="https://rubyonrails.org/" target="_blank"><img alt="Rails" heigth="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg"></a>&nbsp&nbsp   
   <a href="#" target="_blank"><img alt="CSS3" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"></a>&nbsp&nbsp
   <a href="#" target="_blank"><img alt="HTML5" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></a>&nbsp&nbsp 
-  <a href="#" target="_blank"><img alt="C#" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>&nbsp&nbsp 
   <a href="https://www.mysql.com/"><img alt="MySQL" heigth="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></a>&nbsp&nbsp
   <a href="https://www.postgresql.org/"><img alt="PostgreSQL" heigth="40" width="50" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"></a>&nbsp&nbsp
-  <a href="#"><img alt="MongoDB" heigth="40" width="50" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"></a>&nbsp&nbsp
   <a href="https://getbootstrap.com/"><img alt="Bootstrap" heigth="40" width="50" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"></a>&nbsp&nbsp
   <a href="https://tailwindcss.com/"><img alt="TailwindCSS" src ="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>&nbsp&nbsp
-  <a href="https://www.chartjs.org/"><img alt="ChatJS" src ="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"></a>&nbsp&nbsp
   <a href="https://www.github.com"><img alt="GitHub Pages" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></a>&nbsp&nbsp
   <a href="https://about.gitlab.com/"><img alt="GitLab" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg"></a>&nbsp&nbsp
   <a href="https://git-scm.com/"><img alt="Git" heigth="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"></a>&nbsp&nbsp
