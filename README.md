@@ -32,6 +32,8 @@
   <a href="https://www.atlassian.com/br/software/jira"><img alt="Jira" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"></a>
   <a href="https://aws.amazon.com/pt/free/?gclid=EAIaIQobChMI1Pb6ytbziAMVkGBIAB0g5xwkEAAYASAAEgJ1HPD_BwE&trk=0b854ede-d445-4eda-b7c7-2a23a18bf271&sc_channel=ps&ef_id=EAIaIQobChMI1Pb6ytbziAMVkGBIAB0g5xwkEAAYASAAEgJ1HPD_BwE:G:s&s_kwcid=AL!4422!3!561843094995!e!!g!!aws!15278604638!130587772540&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all"><img alt="AWS" heigth="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
   </a>
+  <a href="https://redis.io/"><img alt="redis" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg"></a>
+  <a
   <br>
 
 ## 📊 My Activities
