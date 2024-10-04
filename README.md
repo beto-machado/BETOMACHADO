@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=7AF79A&size=40&width=1000&duration=3000&lines=Hey+Devs!+I'm+Beto!)](https://git.io/typing-svg)
 
 
-- 🔭 I'm currently working on a Ruby on Rails Api project
+- 🔭 I'm Ruby on Rails developer
 
 ### 📔 Contacts
 <div>
