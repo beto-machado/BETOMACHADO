@@ -1,4 +1,4 @@
-
+8
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=7AF79A&size=40&width=1000&duration=3000&lines=Hey+Devs!+I'm+Beto!)](https://git.io/typing-svg)
 
 
@@ -29,9 +29,8 @@
   <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"></a>&nbsp&nbsp
   <a href="https://insomnia.rest/download" target="_blank"><img alt="Ionic" heigth="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg"></a>&nbsp&nbsp 
   <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>&nbsp&nbsp
-  <a href="https://www.figma.com/"><img alt="TFigma" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>&nbsp&nbsp
-  <a href="https://aws.amazon.com/pt/free/?gclid=EAIaIQobChMI1Pb6ytbziAMVkGBIAB0g5xwkEAAYASAAEgJ1HPD_BwE&trk=0b854ede-d445-4eda-b7c7-2a23a18bf271&sc_channel=ps&ef_id=EAIaIQobChMI1Pb6ytbziAMVkGBIAB0g5xwkEAAYASAAEgJ1HPD_BwE:G:s&s_kwcid=AL!4422!3!561843094995!e!!g!!aws!15278604638!130587772540&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all"><img alt="Jira" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"></a>
-  <a href="https://www.atlassian.com/br/software/jira"><img alt="Jira" heigth="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+  <a href="https://www.atlassian.com/br/software/jira"><img alt="Jira" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"></a>
+  <a href="https://aws.amazon.com/pt/free/?gclid=EAIaIQobChMI1Pb6ytbziAMVkGBIAB0g5xwkEAAYASAAEgJ1HPD_BwE&trk=0b854ede-d445-4eda-b7c7-2a23a18bf271&sc_channel=ps&ef_id=EAIaIQobChMI1Pb6ytbziAMVkGBIAB0g5xwkEAAYASAAEgJ1HPD_BwE:G:s&s_kwcid=AL!4422!3!561843094995!e!!g!!aws!15278604638!130587772540&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all"><img alt="AWS" heigth="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
   </a>
   <br>
 
